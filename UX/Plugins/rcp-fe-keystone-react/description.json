@@ -1,0 +1,12 @@
+{
+    "pluginDependencies": [],
+    "riotMeta": {
+        "hasBundledAssets": true,
+        "app": "keystone",
+        "feature": "Shared",
+        "subtype": "ui",
+        "globalAssetBundles": [ "assets.wad" ],
+        "type": "frontend"
+    },
+    "name": "rcp-fe-keystone-react"
+}
